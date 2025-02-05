@@ -8,7 +8,7 @@ terraform init
 terraform plan
 ```
 
-## Create resource
+## Create Resource
 ```
 terraform apply -auto-approve
 ```
